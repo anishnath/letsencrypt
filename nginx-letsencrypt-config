@@ -40,6 +40,6 @@ location /.well-known/acme-challenge {
 4. Validate the nginx configuration and restart it 
 sudo nginx -t && sudo nginx -s reload
 
-5. ./certbot --config /tmp/my-domain.conf certonly
+5. ./certbot-auto --config /tmp/my-domain.conf certonly
 		
 		
