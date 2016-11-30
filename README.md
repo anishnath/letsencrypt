@@ -6,3 +6,4 @@ Getting letsencrypt certificate using certbot-auto certonly
 https://youtu.be/7gjd5poNsew
 
 2. LetsEncrypt Install using Nginx 
+https://youtu.be/Ui_ZsOV2ioA
