@@ -1,7 +1,6 @@
 1. Install certbot and add letsencrypt folder
-
-wget https://dl.eff.org/certbot-auto
-chmod a+x certbot-auto
+	wget https://dl.eff.org/certbot-auto
+	chmod a+x certbot-auto
 
 2. Create the file for letssncrypt  
 	mkdir -p /var/www/letsencrypt/
